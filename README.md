@@ -1,0 +1,2 @@
+# firebase-material-todo-demo
+FirebaseとMaterialDesignを適用したシンプルなTodoアプリを各言語で実装したデモプロジェクトです。
